@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# data files
+data/
+adapters/
+
+# notebook checkpoints
+.ipynb_checkpoints/
+
+# environment
+.env
+venv/
+.env/
+
+# OS
+.DS_Store
+
+# model caches
+.cache/

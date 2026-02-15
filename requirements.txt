@@ -1,0 +1,8 @@
+transformers
+datasets
+peft
+trl
+accelerate
+bitsandbytes
+jsonschema
+evaluate
