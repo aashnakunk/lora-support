@@ -32,7 +32,7 @@ Only lightweight LoRA adapters were trained. The base model remains frozen.
 
 ## Results
 
-Evaluated on 100 challenging examples:
+Evaluated on 800 examples:
 
 | Metric | Baseline | + LoRA | Improvement |
 |--------|----------|--------|-------------|
